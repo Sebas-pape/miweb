@@ -1,1 +1,1 @@
-print ("chancho feliz y triste")
+print ("chancho feliz")
